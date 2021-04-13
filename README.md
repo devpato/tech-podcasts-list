@@ -43,3 +43,4 @@ List of Tech Podcasts.
 | Talk Python                   | @TalkPython      | English    | talkpython.fm                                    |
 | Techpoint Charlie             | @Techpoint_C     | English    | techpointcharlie.blog                            |
 | Vies On Vue                   | @viewsonvue      | English    | viewsonvue.com                                   |
+| Electro Monkeys               | @k8Monkeys       | French     | electro-monkeys.fr                               |
