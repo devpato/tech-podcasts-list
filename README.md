@@ -42,4 +42,4 @@ List of Tech Podcasts.
 | Python Bytes                  | @PythonBytes     | English    | pythonbytes.fm                                   |
 | Talk Python                   | @TalkPython      | English    | talkpython.fm                                    |
 | Techpoint Charlie             | @Techpoint_C     | English    | techpointcharlie.blog                            |
-|                               |                  |            |                                                  |
+| Vies On Vue                   | @viewsonvue      | English    | viewsonvue.com                                   |
