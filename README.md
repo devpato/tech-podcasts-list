@@ -1,5 +1,5 @@
 # Tech-Podcasts-List 🎙️
-List of Tech Podcasts For Tech Podcast.
+List of Tech Podcasts.
 
 **If your podcast is not on the list or the information is incorrect, create a PR with the correct information of your podcast**
 | Podcast Name                  | Twitter Contact  | Language   | Website                                          |
@@ -9,7 +9,7 @@ List of Tech Podcasts For Tech Podcast.
 | Tech Talks With Santosh       | @SantoshYadavDev | English    | www.youtube.com/channel/UChvYTafHRgXKb0VbYGeG0nw |
 | Angular Rocks                 | @kuncevic        | English    | angularrocks.com                                 |
 | Show and Tell                 | @beeman_nl       | English    | www.youtube.com/channel/UC7uDqVqYy76iRQVj73kW44Q |
-| El Guacala quee rico del JS   | @DezkaReid       | Spanish    |                                                  |
+| El Guacala que rico del JS    | @DezkaReid       | Spanish    |                                                  |
 | The Function Call             | @theFnCall       | English    | thefncall.com                                    |
 | SyntaxFM                      | @syntaxfm        | English    | syntax.fm                                        |
 | Single Threaded               | @single_threaded | English    | anchor.fm/single-threaded                        |
