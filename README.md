@@ -16,7 +16,7 @@ List of Tech Podcasts.
 | ZDS                           | @zackderose      | English    | www.youtube.com/channel/UCIEY8ETWdW3EX-3nWE-T0dQ |
 | CodeCast                      | @wedeycode       | English    | t.co/CQdWtTmBf4?amp=1                            |
 | The Vanilla Postcast          | @vainillapodcast | English    | vainillapodcast.fm                               |
-| ront End Happy Hour           | @FrontEndHH      | English    | frontendhappyhour.com                            |
+| Front End Happy Hour          | @FrontEndHH      | English    | frontendhappyhour.com                            |
 | Serverless Chats Podcast      | @ServerlessChats | English    | serverlesschats.com                              |
 | Talking Serverless Podcast    | @talkingsls      | English    | talkingserverless.io                             |
 | Cafe Con Tech                 | @cafe_contech    | Spanish    | cafecon.tech                                     |
