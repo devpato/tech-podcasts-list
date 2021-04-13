@@ -13,7 +13,7 @@ List of Tech Podcasts.
 | The Function Call             | @theFnCall       | English    | thefncall.com                                    |
 | SyntaxFM                      | @syntaxfm        | English    | syntax.fm                                        |
 | Single Threaded               | @single_threaded | English    | anchor.fm/single-threaded                        |
-| ZDS                           | @zackderose      | English    | www.youtube.com/channel/UCIEY8ETWdW3EX-3nWE-T0dQ |
+| ZDS                           | @zackderose      | English    | www.youtube.com/c/ZackDeRoseDev |
 | CodeCast                      | @wedeycode       | English    | t.co/CQdWtTmBf4?amp=1                            |
 | The Vanilla Postcast          | @vainillapodcast | English    | vainillapodcast.fm                               |
 | Front End Happy Hour          | @FrontEndHH      | English    | frontendhappyhour.com                            |
