@@ -8,7 +8,7 @@ List of Tech Podcasts.
 | Angular Licious               | @angularlicious  | English    | angularlicio.us                                  |
 | Tech Talks With Santosh       | @SantoshYadavDev | English    | www.youtube.com/channel/UChvYTafHRgXKb0VbYGeG0nw |
 | Angular Rocks                 | @kuncevic        | English    | angularrocks.com                                 |
-| Show and Tell                 | @beeman_nl       | English    | www.youtube.com/channel/UC7uDqVqYy76iRQVj73kW44Q |
+| Show and Tell                 | @beeman_nl       | English    | www.youtube.com/c/beeman-dev                     |
 | El Guacala que rico del JS    | @DezkaReid       | Spanish    |                                                  |
 | The Function Call             | @theFnCall       | English    | thefncall.com                                    |
 | SyntaxFM                      | @syntaxfm        | English    | syntax.fm                                        |
