@@ -44,4 +44,4 @@ List of Tech Podcasts.
 | Techpoint Charlie             | @Techpoint_C     | English    | techpointcharlie.blog                            |
 | Vies On Vue                   | @viewsonvue      | English    | viewsonvue.com                                   |
 | Electro Monkeys               | @k8Monkeys       | French     | electro-monkeys.fr                               |
-| El Podcast Dev.               | @elpodcastdev    | Spanish    | https://elpodcast.dev/                           |
+| El Podcast Dev                | @elpodcastdev    | Spanish    | https://elpodcast.dev/                           |
