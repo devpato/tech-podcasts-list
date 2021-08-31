@@ -45,3 +45,4 @@ List of Tech Podcasts.
 | Vies On Vue                   | @viewsonvue      | English    | viewsonvue.com                                   |
 | Electro Monkeys               | @k8Monkeys       | French     | electro-monkeys.fr                               |
 | El Podcast Dev                | @elpodcastdev    | Spanish    | https://elpodcast.dev/                           |
+| Shop Talk Show                | @shoptalkshow    | English    | https://shoptalkshow.com/                        |
