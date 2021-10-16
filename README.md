@@ -47,3 +47,4 @@ List of Tech Podcasts.
 | El Podcast Dev                | @elpodcastdev    | Spanish    | https://elpodcast.dev/                           |
 | Shop Talk Show                | @shoptalkshow    | English    | https://shoptalkshow.com/                        |
 | Talking Kotlin                | @talkingkotlin   | English    | https://talkingkotlin.com/                       |
+| Ruby Rogues                   | @rubyrogues      | English    | https://rubyrogues.com/                          |
