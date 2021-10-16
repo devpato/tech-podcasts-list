@@ -46,3 +46,4 @@ List of Tech Podcasts.
 | Electro Monkeys               | @k8Monkeys       | French     | electro-monkeys.fr                               |
 | El Podcast Dev                | @elpodcastdev    | Spanish    | https://elpodcast.dev/                           |
 | Shop Talk Show                | @shoptalkshow    | English    | https://shoptalkshow.com/                        |
+| Talking Kotlin                | @talkingkotlin  | English     | https://talkingkotlin.com/                        |
