@@ -48,3 +48,4 @@ List of Tech Podcasts.
 | Shop Talk Show                | @shoptalkshow    | English    | https://shoptalkshow.com/                        |
 | Talking Kotlin                | @talkingkotlin   | English    | https://talkingkotlin.com/                       |
 | Ruby Rogues                   | @rubyrogues      | English    | https://rubyrogues.com/                          |
+| Dev Café                      | @g123k.          | French     | https://dev-cafe.fr                              |
