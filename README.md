@@ -11,7 +11,7 @@ List of Tech Podcasts.
 | Show and Tell                 | @beeman_nl       | English    | www.youtube.com/c/beeman-dev                     |
 | El Guacala que rico del JS    | @DezkaReid       | Spanish    |                                                  |
 | The Function Call             | @theFnCall       | English    | thefncall.com                                    |
-| SyntaxFM                      | @syntaxfm        | English    | syntax.fm                                        |
+| SyntaxFM                      | @syntaxfm        | English    | https://syntax.fm                                |
 | Single Threaded               | @single_threaded | English    | anchor.fm/single-threaded                        |
 | ZDS                           | @zackderose      | English    | www.youtube.com/c/ZackDeRoseDev |
 | CodeCast                      | @wedeycode       | English    | t.co/CQdWtTmBf4?amp=1                            |
