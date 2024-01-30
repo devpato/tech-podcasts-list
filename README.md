@@ -23,7 +23,7 @@ List of Tech Podcasts.
 | Control Remoto                | @ControlRemoto7  | Spanish    | controlremoto.io                                 |
 | Greater Than Code             | @greaterthancode | English    | greaterthancode.com                              |
 | Tech Intersect™ Podcast       | @AtTechIntersect | English    | techintersectpodcast.com                         |
-| Change Long                   | @changelog       | English    | changelog.com                                    |
+| Change Log                    | @changelog       | English    | changelog.com                                    |
 | Carreira Sem Fronteiras       | @o_gabsferreira  | Portuguese | carreirasemfronteiras.com.br                     |
 | SaaS District Podcast         | @AkeelJabber     | English    |                                                  |
 | Sass Club                     | @saasclubio      | English    | saasclub.io                                      |
